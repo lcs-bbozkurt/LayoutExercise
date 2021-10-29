@@ -11,6 +11,7 @@
 		C10E189627287DC70053DF40 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C10E189527287DC70053DF40 /* ContentView.swift */; };
 		C10E189827287DCA0053DF40 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C10E189727287DCA0053DF40 /* Assets.xcassets */; };
 		C10E189B27287DCA0053DF40 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C10E189A27287DCA0053DF40 /* Preview Assets.xcassets */; };
+		C1222694272B6C8600CBBC39 /* ContentView2.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1222693272B6C8600CBBC39 /* ContentView2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		C10E189527287DC70053DF40 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		C10E189727287DCA0053DF40 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C10E189A27287DCA0053DF40 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		C1222693272B6C8600CBBC39 /* ContentView2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,6 +73,7 @@
 			isa = PBXGroup;
 			children = (
 				C10E189527287DC70053DF40 /* ContentView.swift */,
+				C1222693272B6C8600CBBC39 /* ContentView2.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -145,6 +148,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C1222694272B6C8600CBBC39 /* ContentView2.swift in Sources */,
 				C10E189627287DC70053DF40 /* ContentView.swift in Sources */,
 				C10E189427287DC70053DF40 /* LayoutExerciseApp.swift in Sources */,
 			);
@@ -277,6 +281,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"LayoutExercise/Preview Content\"";
+				DEVELOPMENT_TEAM = T24ULKVAAA;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -306,6 +311,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"LayoutExercise/Preview Content\"";
+				DEVELOPMENT_TEAM = T24ULKVAAA;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
