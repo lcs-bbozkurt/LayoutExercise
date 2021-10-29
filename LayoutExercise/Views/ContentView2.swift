@@ -13,6 +13,8 @@ struct ContentView2: View {
         HStack(spacing:10){
     
             VStack(spacing:10){
+                AsyncImage(url: URL(string: "https://loremflickr.com/80/100"))
+                    .frame(width: 80, height: 100)
                 Text("TITLE")
                     .fontWeight(.black)
 
